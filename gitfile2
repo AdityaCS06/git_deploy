@@ -1,0 +1,4 @@
+echo "Please enter your name"
+read x
+echo "Welcome $x Congratulations now you are the member of GitHub"
+
